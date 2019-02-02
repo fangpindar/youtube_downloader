@@ -1,0 +1,17 @@
+安裝方法
+1.將pytube跟pytube-9.3.5.dist-info放入python的資料夾內，Lib內，site-packages內
+2.將ffmpeg資料夾放C槽內
+3.在系統環境變數那邊，上方的使用者變數按新增，加入以下
+變數名稱:PATH
+變數值  :C:\ffmpeg\bin
+
+
+執行方法
+1.在這個資料夾內執行cmd，點選上面類似網址的那列，打上cmd即可
+2.打上python youtubedownloader.py，此處可以自行改名
+3.第一個變數為欲下載的影片音樂URL
+4.第二個變數很多，若看不懂，就打0
+5.打上你想要叫的名字，請不要使用符號，windows會造成錯誤
+6.1慢慢等，如果畫面寫down就完成了
+6.2如果出現down，卻沒有音樂檔出現，請將網址寄到以下email:fangpindar@gmail.com，作者將盡快更改作業演算法
+7.本程式為免費開源軟體，歡迎散播，也歡迎donate
